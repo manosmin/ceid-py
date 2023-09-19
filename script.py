@@ -1,10 +1,10 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import urllib.request
-'''
+
 url = 'https://data.buffalony.gov/resource/2cjd-uvx7.csv'
 urllib.request.urlretrieve(url, '2cjd-uvx7.csv')
-'''
+
 # scrapped data from previous section
 fname = '2cjd-uvx7.csv'
 

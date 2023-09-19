@@ -10,8 +10,8 @@ empdata3 = pd.read_csv('Graph3.csv', index_col=False, delimiter = ',')
 empdata3.head()
 
 try:
-    conn = msql.connect(host='localhost', user='root',  
-                        password='root') # use your own credentials
+    conn = msql.connect(host='localhost', user='your_username',  
+                        password='your_password') # use your own credentials
     if conn.is_connected():
         cursor = conn.cursor()
         cursor.execute("DROP DATABASE IF EXISTS Python2022CEIDCompilers")
