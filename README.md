@@ -34,10 +34,10 @@ To deploy this project run
 
 
 ## Screenshots
-*Recyclable items and their respective quantities*
-![Recycling Types & Quantities](https://github.com/manosmin/ceid-py/blob/master/screenshots/python_4vW3PnAHn5.png)
-*Top 5 Months with the highest recyclable item quantities*
-![Top 5 Months](https://github.com/manosmin/ceid-py/blob/master/screenshots/python_azNxcpLEEZ.png)
-*Total quantities of recyclable items per year*
+*Recyclable items and their respective quantities*</br>
+![Recycling Types & Quantities](https://github.com/manosmin/ceid-py/blob/master/screenshots/python_4vW3PnAHn5.png)</br>
+*Top 5 Months with the highest recyclable item quantities*</br>
+![Top 5 Months](https://github.com/manosmin/ceid-py/blob/master/screenshots/python_azNxcpLEEZ.png)</br>
+*Total quantities of recyclable items per year*</br>
 ![Total Quantities per Type](https://github.com/manosmin/ceid-py/blob/master/screenshots/python_eewDf1grbK.png)
 
