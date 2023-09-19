@@ -12,7 +12,7 @@ Implemented a Python script to collect data from the OpenData Buffalo website an
 - Total quantities of recyclable items per year.
 - Comprehensive presentation of recyclable items and their respective quantities.
 - Presentation of the top 5 months with the highest recyclable item quantities, independent of year and recyclable item type.
-- Loading the processed data into designated tables within a MySQL database and generating corresponding .csv files
+- Loading the processed data into designated tables within a MySQL database and generating corresponding .csv files.
 
 
 ## Tech Stack
